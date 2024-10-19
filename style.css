@@ -1,0 +1,25 @@
+table, th, td{
+    border: 1px solid black;
+    padding: 3px;
+    border-collapse: collapse;
+}
+.xcgvhb{
+    background-color: aqua;
+}
+.fghj{
+   background-color: blue;
+}
+.dfghj{
+    background-color: blueviolet;
+}
+form{
+    width: 200px;
+    height: 330px;
+    background-color: blueviolet;
+    padding: 100px;
+    color: antiquewhite;
+}
+.headers{
+    font-size: 20px;
+    margin: 10px 0 40px 0;
+}
